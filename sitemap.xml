@@ -4,9 +4,10 @@
 
     <url>
         <loc>https://noobtecz.vercel.app/</loc>
-        <loc>https://practising-webdev-seonad.vercel.app/</loc>
+    </url>
+
+    <url>
         <loc>https://noobtecz.vercel.app/classic_00-portfolio/</loc>
-        <loc>https://practising-webdev-seonad.vercel.app/classic_00-portfolio/</loc>
     </url>
 
 </urlset>

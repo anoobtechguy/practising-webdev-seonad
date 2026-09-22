@@ -3,4 +3,3 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 sitemap: https://noobtecz.vercel.app/sitemap.xml
-Sitemap: https://practising-webdev-seonad.vercel.app/sitemap.xml
