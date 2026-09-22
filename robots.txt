@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 User-agent: OAI-SearchBot
 Allow: /
-Sitemap: https://portfolio-three-blond-40.vercel.app/sitemap.xml
+Sitemap: https://practising-webdev-seonad.vercel.app/sitemap.xml
